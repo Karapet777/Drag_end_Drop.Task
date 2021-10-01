@@ -1,0 +1,13 @@
+.app-layout {
+  max-width: 790px;
+  width: 100%;
+  padding: 28px 50px;
+  border-radius: 10px;
+  background-color: white;
+ 
+  &_main{
+  
+      flex: 1;
+      
+  }
+}
